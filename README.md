@@ -1,1 +1,3 @@
-# jenkins-pipeline-test
+# maven-project
+
+Simple Maven Project
